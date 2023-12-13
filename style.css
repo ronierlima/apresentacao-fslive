@@ -1,0 +1,23 @@
+div {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+div {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+}
+
+#div1 {
+  background-color: magenta;
+}
+#div2 {
+  background-color: teal;
+}
+
+img {
+  width: 300px;
+  border-radius: 50%;
+}
